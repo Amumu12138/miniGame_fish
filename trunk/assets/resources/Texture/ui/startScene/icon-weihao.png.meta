@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e99e6b52-569f-4e0d-b6d0-f09b6bfd983f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "icon-weihao": {
+      "ver": "1.0.3",
+      "uuid": "12742004-d01e-4366-aee2-bfa20927dbbd",
+      "rawTextureUuid": "e99e6b52-569f-4e0d-b6d0-f09b6bfd983f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": -1,
+      "trimX": 6,
+      "trimY": 3,
+      "width": 62,
+      "height": 63,
+      "rawWidth": 72,
+      "rawHeight": 67,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,231 @@
+[
+  {
+    "__type__": "cc.Prefab",
+    "_name": "",
+    "_objFlags": 0,
+    "_rawFiles": null,
+    "data": {
+      "__id__": 1
+    }
+  },
+  {
+    "__type__": "cc.Node",
+    "_name": "player",
+    "_objFlags": 0,
+    "_parent": null,
+    "_children": [],
+    "_tag": -1,
+    "_active": true,
+    "_components": [
+      {
+        "__id__": 2
+      },
+      {
+        "__id__": 3
+      },
+      {
+        "__id__": 4
+      },
+      {
+        "__id__": 5
+      },
+      {
+        "__id__": 6
+      }
+    ],
+    "_prefab": {
+      "__id__": 7
+    },
+    "_id": "",
+    "_opacity": 255,
+    "_color": {
+      "__type__": "cc.Color",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "a": 255
+    },
+    "_cascadeOpacityEnabled": true,
+    "_anchorPoint": {
+      "__type__": "cc.Vec2",
+      "x": 0.5,
+      "y": 0.5
+    },
+    "_contentSize": {
+      "__type__": "cc.Size",
+      "width": 87,
+      "height": 55
+    },
+    "_rotationX": 90,
+    "_rotationY": 90,
+    "_scaleX": 1,
+    "_scaleY": 1,
+    "_position": {
+      "__type__": "cc.Vec2",
+      "x": 700,
+      "y": 573
+    },
+    "_skewX": 0,
+    "_skewY": 0,
+    "_localZOrder": 0,
+    "_globalZOrder": 0,
+    "_opacityModifyRGB": false,
+    "groupIndex": 1
+  },
+  {
+    "__type__": "cc.Sprite",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_spriteFrame": {
+      "__uuid__": "777528e1-a021-4bea-b1ef-4e51d0f9b491"
+    },
+    "_type": 0,
+    "_sizeMode": 1,
+    "_fillType": 0,
+    "_fillCenter": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "_fillStart": 0,
+    "_fillRange": 0,
+    "_isTrimmedMode": true,
+    "_srcBlendFactor": 770,
+    "_dstBlendFactor": 771,
+    "_atlas": {
+      "__uuid__": "76a6dc1d-0868-4700-b296-a3dff7bfbf58"
+    }
+  },
+  {
+    "__type__": "cc.PolygonCollider",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "tag": 0,
+    "_offset": {
+      "__type__": "cc.Vec2",
+      "x": 0,
+      "y": 0
+    },
+    "points": [
+      {
+        "__type__": "cc.Vec2",
+        "x": 8.4,
+        "y": 16.7
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -17.8,
+        "y": 9.1
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -33.8,
+        "y": 22.2
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": -36.7,
+        "y": 12.7
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 7.2,
+        "y": -4.7
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 6.4,
+        "y": -12.4
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 27.3,
+        "y": -4.5
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 42.3,
+        "y": 6.7
+      },
+      {
+        "__type__": "cc.Vec2",
+        "x": 6.9,
+        "y": 25.2
+      }
+    ]
+  },
+  {
+    "__type__": "0d4d1CPPNBNE7B8OHn6TZD2",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "startSpeed": 200,
+    "moveDirRot": -90,
+    "failureAudio": {
+      "__uuid__": "387710c2-12e2-47b9-9d5a-9d2c623ac499"
+    },
+    "victoryAudio2": {
+      "__uuid__": "7d8532c5-629a-4e88-ae4e-95bf79c4d643"
+    }
+  },
+  {
+    "__type__": "cc.Animation",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_defaultClip": {
+      "__uuid__": "249c5c82-87ae-4a5a-9816-c7844fb1082f"
+    },
+    "_clips": [
+      {
+        "__uuid__": "249c5c82-87ae-4a5a-9816-c7844fb1082f"
+      },
+      {
+        "__uuid__": "26a50a19-8c43-4361-b93e-87564aa9d095"
+      }
+    ],
+    "playOnLoad": true
+  },
+  {
+    "__type__": "cc.AudioSource",
+    "_name": "",
+    "_objFlags": 0,
+    "node": {
+      "__id__": 1
+    },
+    "_enabled": true,
+    "_clip": {
+      "__uuid__": "9ea44ecc-bff2-4256-98aa-31e9cc627086"
+    },
+    "_volume": 1,
+    "_mute": false,
+    "_loop": false,
+    "playOnLoad": false,
+    "preload": false
+  },
+  {
+    "__type__": "cc.PrefabInfo",
+    "root": {
+      "__id__": 1
+    },
+    "asset": {
+      "__id__": 0
+    },
+    "fileId": "bep/pTPtNNn5AkEcALNhAs",
+    "sync": false
+  }
+]

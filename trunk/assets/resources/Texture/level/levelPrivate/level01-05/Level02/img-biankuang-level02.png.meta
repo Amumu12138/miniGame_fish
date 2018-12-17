@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "5e1d39e6-a6b6-44cd-8cbf-cd239e67ffcd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img-biankuang-level02": {
+      "ver": "1.0.3",
+      "uuid": "0b575b6a-0637-48a5-ad43-c9d10d7b1e73",
+      "rawTextureUuid": "5e1d39e6-a6b6-44cd-8cbf-cd239e67ffcd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -14.5,
+      "offsetY": -74,
+      "trimX": 67,
+      "trimY": 160,
+      "width": 1171,
+      "height": 1334,
+      "rawWidth": 1334,
+      "rawHeight": 1506,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
