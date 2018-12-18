@@ -10,18 +10,11 @@
 ## 二、技术架构
 ### 1、前台架构
 * CocosCreator
-* HTML5
 * Javascript
 
 ### 2、后台结构
-* PHP
-* MYSQL
 
 ## 三、运行环境
-* PHP 5.4 +
-* Mysql 5.6 +
-* Apache Or Nginx
 
 ## 四、通信方式
 * HTTP
-* WSS
